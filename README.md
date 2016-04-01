@@ -42,6 +42,8 @@ A collection of resources on wait-free and lock-free programming.
 * [CppCon 2015: Michael Wong “C++11/14/17 atomics and memory model..."](https://www.youtube.com/watch?v=DS2m7T6NKZQ)
 * [CppCon 2015: Paul E. McKenney “C++ Atomics..."](https://www.youtube.com/watch?v=ZrNQKpOypqU)
 * [CppCon 2014: Tony Van Eerd "Lock-free by Example"](https://www.youtube.com/watch?v=Xf35TLFKiO8)
+* [C++ and Beyond 2012: Herb Sutter - atomic<> Weapons, 1 of 2](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Herb-Sutter-atomic-Weapons-1-of-2)
+* [C++ and Beyond 2012: Herb Sutter - atomic<> Weapons, 2 of 2](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Herb-Sutter-atomic-Weapons-2-of-2)
 * ["Aeron: Open-source high-performance messaging" by Martin Thompson](https://www.youtube.com/watch?v=tM4YskS94b0)
 * [Adventures with Concurrent Programming in Java: A Quest for Predictable Latency - Martin Thompson](https://www.youtube.com/watch?v=eKVpea51tvo)
 * [Understanding the Disruptor, a Beginner's Guide to Hardcore Concurrency -Trisha Gee & Mike Barker](https://www.youtube.com/watch?v=DCdGlxBbKU4)
