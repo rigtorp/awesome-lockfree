@@ -31,9 +31,9 @@ A collection of resources on wait-free and lock-free programming.
 
 ## Papers
 
-* [A Tutorial Introduction to the ARM and POWER Relaxed Memory Models][http://www.cl.cam.ac.uk/~pes20/ppc-supplemental/test7.pdf]
+* [A Tutorial Introduction to the ARM and POWER Relaxed Memory Models](http://www.cl.cam.ac.uk/~pes20/ppc-supplemental/test7.pdf)
 * [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](http://www.research.ibm.com/people/m/michael/podc-1996.pdf) - The Michael - Scott Queue
-* [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors][http://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf]
+* [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors](http://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
 
 ## Talks
 
