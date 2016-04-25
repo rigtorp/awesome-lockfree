@@ -25,6 +25,7 @@ A collection of resources on wait-free and lock-free programming.
 ## Blogs
 
 * [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/) - A web site dedicated to Concurrent algorithms and patterns.
+* [Dan Luu](http://danluu.com/) - Lots of info on modern computer architecture.
 * [Mechanical Sympathy](http://mechanical-sympathy.blogspot.com/)
 * [Preshing on Programming](http://preshing.com/)
 * [Sutter's Mill](http://herbsutter.com/) - Herb Sutter on software development.
