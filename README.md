@@ -26,10 +26,15 @@ A collection of resources on wait-free and lock-free programming.
 
 * [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/) - A web site dedicated to Concurrent algorithms and patterns.
 * [Dan Luu](http://danluu.com/) - Lots of info on modern computer architecture.
+* [Locking in Webkit](https://webkit.org/blog/6161/locking-in-webkit/)
 * [Mechanical Sympathy](http://mechanical-sympathy.blogspot.com/)
+* [Paul E. McKenney](http://paulmck.livejournal.com/)
 * [Preshing on Programming](http://preshing.com/)
 * [Sutter's Mill](http://herbsutter.com/) - Herb Sutter on software development.
-* [Locking in Webkit](https://webkit.org/blog/6161/locking-in-webkit/)
+
+## Books
+
+* *Paul E. McKenney*. [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 
 ## Papers
 
