@@ -13,6 +13,7 @@ A collection of resources on wait-free and lock-free programming.
 * [Seqlock](https://github.com/rigtorp/Seqlock) - Implementation of Seqlock in C++.
 * [Userspace RCU](http://liburcu.org/) - liburcu is a userspace RCU (read-copy-update) library.
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures.
+* [liblfds](https://liblfds.org/) - portable, license-free, lock-free data structure library written in C.
 
 ## Websites
 
