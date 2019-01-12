@@ -32,6 +32,7 @@ A collection of resources on wait-free and lock-free programming.
 * [Paul E. McKenney](http://paulmck.livejournal.com/)
 * [Preshing on Programming](http://preshing.com/)
 * [Sutter's Mill](http://herbsutter.com/) - Herb Sutter on software development.
+* [Paul Khuong](https://www.pvk.ca/Blog/archives/)
 
 ## Books
 
