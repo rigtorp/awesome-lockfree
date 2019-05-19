@@ -6,6 +6,7 @@ A collection of resources on wait-free and lock-free programming.
 
 * [Boost.Lockfree](http://www.boost.org/doc/libs/1_60_0/doc/html/lockfree.html) - Boost lock-free data structures.
 * [ConcurrencyKit](https://github.com/concurrencykit/ck) - Concurrency primitives.
+* [crossbeam](https://github.com/crossbeam-rs/crossbeam) - Rust library for concurrent programming.
 * [Folly](https://github.com/facebook/folly) - Facebook Open-source Library (has good implementation of MPMC queue).
 * [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 * [MPMCQueue](https://github.com/rigtorp/MPMCQueue) - A bounded multi-producer multi-consumer lock-free queue written in C++11.
