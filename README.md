@@ -39,6 +39,7 @@ A collection of resources on wait-free and lock-free programming.
 ## Books
 
 * *Paul E. McKenney*. [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+* *Maurice Herlihy and Nir Shavit*. [The Art of Multiprocessor Programming](https://dl.acm.org/citation.cfm?id=2385452)
 
 ## Papers
 
