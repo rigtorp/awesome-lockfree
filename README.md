@@ -2,6 +2,8 @@
 
 A collection of resources on wait-free and lock-free programming.
 
+:fire: :fire: :fire: Even better resource from [MattPD](https://github.com/MattPD): [C++ links: atomics, lock free, memory model](https://github.com/MattPD/cpplinks/blob/master/atomics.lockfree.memory_model.md).
+
 ## Libraries
 
 * [Boost.Lockfree](http://www.boost.org/doc/libs/1_60_0/doc/html/lockfree.html) - Boost lock-free data structures.
