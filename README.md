@@ -18,6 +18,7 @@ A collection of resources on wait-free and lock-free programming.
 * [libcds](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures.
 * [liblfds](https://liblfds.org/) - portable, license-free, lock-free data structure library written in C.
 * [xenium](https://github.com/mpoeter/xenium) - A C++ library providing various concurrent data structures and reclamation schemes.
+* [lockfree](https://github.com/DNedic/lockfree) - A collection of lock-free data structures written in standard C++11. Configurable and embedded friendly.
 
 ## Websites
 
