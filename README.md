@@ -51,6 +51,7 @@ A collection of resources on wait-free and lock-free programming.
 * [Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms](https://www.cs.rochester.edu/u/scott/papers/1996_PODC_queues.pdf) - The Michael - Scott Queue
 * *Ulrich Drepper*. [What Every Programmer Should Know About Memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 * [x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors](http://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf)
+* *Bryan Cantrill and Jeff Bonwick*. [Real-world Concurrency](https://homepages.cwi.nl/~storm/teaching/reader/CantrillBonwick08.pdf)
 
 ## Talks
 
